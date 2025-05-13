@@ -1,5 +1,5 @@
-site_name: 贺老师的学习天地
-site_url: https://zh1995.github.io/cswiki/
+site_name: CS学习指南
+site_url: https://zh1995.github.io/CSStudyGuide/
 theme:
   name: material
   language: zh
