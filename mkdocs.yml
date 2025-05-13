@@ -31,7 +31,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       name: Github
-      link: https://github.com/ZH1995/Cswiki/
+      link: https://github.com/ZH1995/CSStudyGuide/
 
 copyright: Copyright &copy; 2017 - 2025 ZH1995
 plugins:
@@ -60,6 +60,7 @@ plugins:
             计算机系统基础: Computer Systems Principles
             数据库系统: Database Systems
 
+
 nav:
   - 前言: "index.md"
   - 必学工具:
@@ -78,3 +79,10 @@ nav:
   - 数据库系统:
       - "CMU 15-445: Database Systems": "数据库系统/CMU15445.md"
       - "Stanford CS346: Database System Implementation": "数据库系统/CS346.md"
+  - 随笔记录:
+      - "2023年的最后一天": "随笔记录/2023年的最后一天.md"
+      - "2024年的第一天": "随笔记录/2024年的第一天.md"
+      - "给大儿的第一封信": "随笔记录/给大儿的第一封信.md"
+      - "离职感想": "随笔记录/离职感想.md"
+      - "上课第一周的感受": "随笔记录/上课第一周的感受.md"
+      - "转眼五月快过去了": "随笔记录/转眼五月快过去了.md"
